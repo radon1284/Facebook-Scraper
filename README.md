@@ -1,7 +1,7 @@
 # Facebook Scraper
 How to scrape facebook with ruby
 
-1. Open Terminal and install this gem `ruby gem install koala`
+1. Open Terminal and install this gem `gem install koala`
 2. create faceboook_scraper.rb
 3. copy this code
 ```ruby
